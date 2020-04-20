@@ -1,0 +1,50 @@
+City_ID,City,Country,Max Temp,Lat,Lng,Current Description,Hotel Name
+49,Poum,NC,80.6,-20.23,164.02,light rain,Gîte kajeon
+56,Almeirim,BR,73.69,-1.52,-52.58,light rain,Ricácio Hotel
+69,Sambava,MG,73.31,-14.27,50.17,light rain,Melrose
+83,Micheweni,TZ,80.53,-4.97,39.83,light rain,
+103,Yako,BF,85.59,12.97,-2.27,light rain,Ecole de Sibega
+118,Alta Floresta,BR,71.78,-9.88,-56.09,light rain,Floresta Amazonica Hotel
+122,Axim,GH,81.27,4.87,-2.24,light rain,AXIM BEACH RESORT AND SPA
+131,Sorong,ID,88.63,-0.88,131.25,light rain,The Waigo Hotel
+142,Faanui,PF,82.24,-16.48,-151.75,light rain,Bora-Bora Pearl Beach Resort & Spa
+154,Harper,LR,80.53,4.38,-7.72,light rain,Cape View Guest House
+162,Borba,BR,73.62,-4.39,-59.59,light rain,Hotel da Amazônia
+165,Tezpur,IN,79.05,26.63,92.8,light rain,Hotel Kanyapur
+172,Tezu,IN,70.41,27.92,96.17,light rain,Circuit House
+191,Butaritari,KI,83.77,3.07,172.79,light rain,Isles Sunset Lodge
+192,Banfora,BF,81.93,10.63,-4.77,light rain,Residences David Hebié
+195,Fare,PF,83.46,-16.7,-151.02,light rain,Maitai Lapita Village Huahine
+200,Kavieng,PG,84.33,-2.57,150.8,light rain,Nusa Island Retreat
+207,Kieta,PG,83.73,-6.22,155.63,light rain,
+209,Takoradi,GH,81.05,4.88,-1.76,light rain,Raybow International Hotel
+218,Merauke,ID,89.24,-8.47,140.33,light rain,
+237,Isangel,VU,79.81,-19.55,169.27,light rain,Volcano Sea View Tree House
+240,Santa Isabel Do Rio Negro,BR,74.32,-0.41,-65.02,light rain,Hotel GSA
+241,Dingle,PH,89.37,11.0,122.67,light rain,Camp Pasica
+260,Piacabucu,BR,78.4,-10.41,-36.43,light rain,Piaçabuçu News
+266,Barra Do Garcas,BR,73.06,-15.89,-52.26,light rain,Hotel Pousada Tropical
+276,Itupiranga,BR,78.8,-5.13,-49.33,light rain,JAIRO ORLINDO VIEIRA
+287,Kindia,GN,73.83,10.06,-12.87,light rain,LES EAUX DE KILISSI
+346,Sinnamary,GF,78.67,5.38,-52.95,moderate rain,ALETHEIA Appartement Sinnamary
+362,San Policarpo,PH,83.21,12.18,125.51,light rain,Zal-Ann Beach Resort
+367,Gorontalo,ID,86.0,0.54,123.06,light rain,Maqna Hotel by Prasanthi
+370,Tabou,CI,79.88,4.42,-7.35,light rain,hotêl doufoulougou
+383,Kiunga,PG,89.67,-6.12,141.29,light rain,Airport Lodge Kiunga
+398,Lorengau,PG,84.49,-2.02,147.27,light rain,Lorengau Harbourside Hotel
+418,Port Blair,IN,84.47,11.67,92.75,light rain,Hotel Sentinel
+423,Vao,NC,73.98,-22.67,167.48,heavy intensity rain,Hotel Kou-Bugny
+424,Inhambane,MZ,72.72,-23.86,35.38,light rain,MHL Turismo SA
+447,Kalmunai,LK,85.73,7.42,81.82,light rain,VS Villa
+450,Maragogi,BR,78.94,-9.01,-35.22,light rain,Hotel Praia Dourada
+453,Lethem,GY,80.24,3.38,-59.8,light rain,Savannah Inn
+454,Marawi,PH,82.49,8.0,124.29,light rain,Derogongan Residence
+473,Fomboni,KM,82.62,-12.28,43.74,light rain,Auberge les abou
+483,Mecca,SA,72.68,21.43,39.83,light rain,Al Shohada Hotel MAKKAH
+486,Namibe,AO,74.39,-15.2,12.15,light rain,Chik-Chik Namibe
+497,Sabang,ID,84.6,5.89,95.32,light rain,Hotel Citra
+503,Mirpur Mathelo,PK,84.43,28.02,69.55,light rain,Leopards courier mirpur mathelo
+527,Vanimo,PG,81.81,-2.67,141.3,moderate rain,Vahmoneh Lodge Vanimo
+535,Alofi,NU,84.2,-19.06,-169.92,light rain,Taloa Heights
+536,Riyadh,SA,73.4,24.69,46.72,light rain,InterContinental Riyadh
+573,San Matias,BO,73.89,-16.37,-58.4,light rain,"HOTEL ""SAN JOSE"""
